@@ -23,14 +23,14 @@ Here are some ideas to get you started:
 
 - [QQMail](mailto:yuhldr@qq.com)
 - [GMAIL](mailto:yuhldr@gmail.com)
-- [BLOG](https://yuhlzu.github.io/)
+- [BLOG](https://yuhldr.github.io/)
 
 - - -
 
 **Status**
 
-![](https://github-readme-stats.vercel.app/api?username=yuhlzu)
+![](https://github-readme-stats.vercel.app/api?username=yuhldr)
 
 **Visitors**
 
-![](https://count.getloli.com/get/@yuhlzu?theme=rule34)
+![](https://count.getloli.com/get/@yuhldr?theme=rule34)
