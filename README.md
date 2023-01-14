@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 
 **Status**
 
-![](https://github-readme-stats.vercel.app/api?username=yuhldr)
+![yuhldr's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuhldr&show_icons=true&theme=radical)
+
 
 **Visitors**
 
